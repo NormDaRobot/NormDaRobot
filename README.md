@@ -19,8 +19,8 @@
 
 ### What tools do I use?
 - **Languages:** C, C++, Java
-- **Editors & IDEs:** Vim, Visual Studio 2022, Code::Blocks, Apache NetBeans
-- **Environment & VCS:** Linux (Ubuntu), Windows, macOS, Git, GitKraken
+- **IDEs:** Code::Blocks, Apache NetBeans
+- **Environment & VCS:** Linux (Ubuntu), Windows, macOS, Git
 
 ---
 
