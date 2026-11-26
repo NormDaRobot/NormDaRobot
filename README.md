@@ -27,3 +27,8 @@
 ### How to reach you?
 - **GitHub:** [@NormDaRobot](https://github.com/NormDaRobot)
 - **Instagram:** [@sifqa723](https://instagram.com/sifqa723)
+
+---
+
+### Github stats
+
