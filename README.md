@@ -6,7 +6,7 @@
 ---
 
 ### Who am I?
-- **Location:** Estepona, Málaga, Spain
+- **Location:** Málaga, Spain
 - **Background:** Computer Engineering student & 42 Málaga trainee, passionate about understanding how software works under the hood without relying on unnecessary abstractions.
 
 ---
