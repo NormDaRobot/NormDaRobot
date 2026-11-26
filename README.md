@@ -32,3 +32,4 @@
 
 ### Github stats
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=NormDaRobot&theme=shadow-brown&timezone=%2B8&short_numbers=true" alt="GitHub Streak" /></a>
